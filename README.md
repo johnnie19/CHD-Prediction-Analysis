@@ -16,13 +16,7 @@ The analysis covers:
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## 📜 Dataset
-- **Source**: [Insert Dataset Link Here]
 - **Size**: 4000+ records
 - **Features**: 16 attributes (both categorical & numerical)
 - **Key Attributes**:
